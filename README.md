@@ -2,6 +2,7 @@
 ### <h1>Hello There</h1>
 
 ![Galxyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Galxyy&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galxyy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCeNyYSNJctqj5TDZueROwvQ)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/955558458961301514)
